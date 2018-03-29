@@ -1,2 +1,2 @@
-c-practice.sublime-project
-c-practice.sublime-workspace
+*
+!*.c
