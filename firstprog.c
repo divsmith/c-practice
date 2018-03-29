@@ -5,7 +5,7 @@ int main()
 	int i;
 	for(i = 0; i < 10; i++)
 	{
-		puts("Hello, world!\n");
+		printf("Hello, world!\n");
 	}
 
 	return 0;
